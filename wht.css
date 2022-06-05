@@ -1,0 +1,53 @@
+
+body{
+    background-color: gainsboro;
+   height: 25cm;
+   }
+   
+   header{
+       
+       background-color: #00a884;
+       height: 6cm;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: small;
+       color: white;
+       margin-top: -1cm;
+       margin-left: -1cm;  
+       
+   }
+   div{
+       margin-left:9cm;
+       margin-top: -2cm;
+       height: 600px;
+       width: 850px;
+       background-color: white;
+       font-size: 20px;
+   }
+   
+   p{
+   padding-left: 16cm;
+   size: 35cm;
+   
+   }
+   a{
+       color:rgb(9, 114, 56);
+       margin-bottom:20cm;
+       
+   }
+   .and{
+       margin-top: -6cm;
+       margin-left: 1px;
+   font-size:20px;
+   
+   }
+   iframe{
+       margin-left: 4cm;
+       border-color: rgb(144, 218, 158);
+       margin-top: -2cm;
+       
+        border: 40px solid #c6e7e1;
+       
+   }
+   .int{
+       margin-left: 8cm;
+   }
